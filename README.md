@@ -1,4 +1,4 @@
-#🤖 Agentic AI Shopping Assistant
+🤖 Agentic AI Shopping Assistant
 
 An AI-powered conversational shopping assistant that combines LargeLanguage Models, traditional Machine Learning, historicalcustomer/product data, and product retrieval to help users makepersonalized beauty-product purchasing decisions.
 
